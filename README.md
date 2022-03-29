@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/Maciel0016">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maciel0016&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maciel0016&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Maciel0016&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maciel0016&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Maciel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
