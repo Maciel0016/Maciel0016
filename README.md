@@ -1,7 +1,7 @@
 # 🏆 sobre mim 🏆
 
 
-🤕 tenho 16 anos, estou estudando sobre programação na parte 𝙗𝙖𝙘𝙠 𝙚𝙣𝙙 .
+⌛ tenho 16 anos, estou estudando sobre programação na parte 𝙗𝙖𝙘𝙠 𝙚𝙣𝙙 .
 
 💥 estou usando a linguagem  𝘾# e aprendendo sobre as ferramentas usadas pela comunidade.
 
